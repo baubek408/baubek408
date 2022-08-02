@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baubek408
+- 👋 Hi, I’m Baubek Mynbayev
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Machine Learning program on Kaggle 
 - 💞️ I’m looking to collaborate on Kaggle
