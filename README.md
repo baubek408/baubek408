@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me 
 - email: baubek408@gmail.com
-- LinkedIn: https://www.linkedin.com/in/baubek-mynbaev-aa6450204
+- LinkedIn: https://www.linkedin.com/in/baubek-mynbaev
 - Kaggle: https://www.kaggle.com/baubekmynbaev
 
 <!---
